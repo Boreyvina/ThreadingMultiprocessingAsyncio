@@ -1,3 +1,4 @@
+import multiprocessing
 import multiprocessing_task
 import threading_task
 import async_task
@@ -28,3 +29,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
